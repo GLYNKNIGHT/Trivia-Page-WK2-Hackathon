@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(250, 241, 120);
+    text-align:center;
+}
+
+#imageDiv{
+    max-width:200%;
+    margin: 0 auto 50px auto;
+
+}
+.question-Box {
+    height: 50px;
+
+    border-style: solid;
+    border-color: black;
+    
+}
